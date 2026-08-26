@@ -1,8 +1,6 @@
 # AI Voice Receptionist
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-ai--voice--agent-blue?logo=github&style=for-the-badge)](https://github.com/codewithmuh/ai-voice-agent)
-[![Stars](https://img.shields.io/github/stars/codewithmuh/ai-voice-agent?style=for-the-badge&logo=github)](https://github.com/codewithmuh/ai-voice-agent/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
 
 <img width="1352" height="813" alt="Screenshot 2026-03-05 at 3 09 41 AM" src="https://github.com/user-attachments/assets/8e631186-d932-4b36-bd09-c908c1e769a1" />
 
@@ -254,9 +252,5 @@ railway add --plugin postgresql
 railway up
 ```
 
-Set your environment variables in the Railway dashboard, then update the Vapi Custom LLM URL and Server URL to your Railway domain.
-![installtion thumbinil](https://github.com/user-attachments/assets/84b56fbb-16e1-4a95-9ee3-dcfc6b15b45f)
 
-## License
 
-MIT
